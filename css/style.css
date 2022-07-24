@@ -1143,6 +1143,10 @@ footer .credits a {
   font-size: 13px;
 }
 
+.row-center{
+  justify-content: center;
+}
+
 /*======================================
 //--//-->   BUTTON
 ======================================*/
